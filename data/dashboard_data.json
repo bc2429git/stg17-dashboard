@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "publisher": {
+   "en": "National Institute of Statistics",
+   "fr": "Institut National de la Statistique"
+  },
+  "country": {
+   "en": "",
+   "fr": ""
+  },
+  "docTitle": {
+   "en": "Crime_in_Zimbabwe_QTR1_26",
+   "fr": "Crime_in_Zimbabwe_QTR1_26"
+  },
+  "period": {
+   "en": "",
+   "fr": ""
+  },
+  "sourceUrl": "https://www.zimstat.co.zw/wp-content/uploads/demography/crime/2026/Crime_in_Zimbabwe_QTR1_26.pdf",
+  "licence": {
+   "en": "Source data: as published by the institute. Dashboard code: MIT.",
+   "fr": "Données source : telles que publiées par l'institut. Code : MIT."
+  },
+  "contact": {
+   "en": "Built at the STG17 technical workshop, lab 02.",
+   "fr": "Réalisé lors de l'atelier technique STG17, labo 02."
+  },
+  "defaultLang": "fr",
+  "synthetic": false,
+  "generated": "2026-09-30"
+ },
+ "areas": [
+  {
+   "id": "0103-non-intentional-homicide",
+   "fr": "0103 Non-intentional homicide",
+   "en": "0103 Non-intentional homicide"
+  },
+  {
+   "id": "0104-assisting-or-instigating-suicide",
+   "fr": "0104 Assisting or instigating suicide",
+   "en": "0104 Assisting or instigating suicide"
+  },
+  {
+   "id": "0202-acts-against-liberty",
+   "fr": "0202 Acts against liberty",
+   "en": "0202 Acts against liberty"
+  },
+  {
+   "id": "0205-coercion",
+   "fr": "0205 Coercion",
+   "en": "0205 Coercion"
+  },
+  {
+   "id": "0208-acts-intended-to-induce-fear-or-emotional-distress",
+   "fr": "0208 Acts intended to induce fear or emotional distress",
+   "en": "0208 Acts intended to induce fear or emotional distress"
+  },
+  {
+   "id": "0210-discrimination",
+   "fr": "0210 Discrimination",
+   "en": "0210 Discrimination"
+  }
+ ],
+ "kpis": [
+  {
+   "labels": {
+    "en": "Correspondence for Non‑intentional homicide",
+    "fr": "Correspondance pour homicide non intentionnel"
+   },
+   "value": 403.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Correspondence for Assisting or instigating suicide",
+    "fr": "Correspondance pour assistance ou incitation au suicide"
+   },
+   "value": 404.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Correspondence for Acts against liberty",
+    "fr": "Correspondance pour atteintes à la liberté"
+   },
+   "value": 11101.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Correspondence for Coercion",
+    "fr": "Correspondance pour coercition"
+   },
+   "value": 932933.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  }
+ ],
+ "series": {
+  "appendix1_correspondence_table": {
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "periods": [
+    "ZRP Crime Code"
+   ],
+   "values": {
+    "0103-non-intentional-homicide": [
+     403.0
+    ],
+    "0104-assisting-or-instigating-suicide": [
+     404.0
+    ],
+    "0202-acts-against-liberty": [
+     11101.0
+    ],
+    "0205-coercion": [
+     932933.0
+    ],
+    "0208-acts-intended-to-induce-fear-or-emotional-distress": [
+     10528.0
+    ],
+    "0210-discrimination": [
+     10525.0
+    ]
+   }
+  }
+ },
+ "views": [
+  {
+   "id": "appendix1_correspondence_table",
+   "chart": "bar",
+   "tab": {
+    "en": "Appendix 1: Correspondence Table between the United Nations International Classification of Crime for Statistical Purposes (ICCS) and the National Crime Classification used by the Zimbabwe Republic Police",
+    "fr": "Appendix 1: Correspondence Table between the United Nations International Classification of Crime for Statistical Purposes (ICCS) and the National Crime Classification used by the Zimbabwe Republic Police"
+   },
+   "title": {
+    "en": "Appendix 1: Correspondence Table between the United Nations International Classification of Crime for Statistical Purposes (ICCS) and the National Crime Classification used by the Zimbabwe Republic Police",
+    "fr": "Appendix 1: Correspondence Table between the United Nations International Classification of Crime for Statistical Purposes (ICCS) and the National Crime Classification used by the Zimbabwe Republic Police"
+   },
+   "sub": {
+    "en": "",
+    "fr": ""
+   },
+   "lede": {
+    "en": "",
+    "fr": ""
+   },
+   "src": {
+    "en": "Source: Crime_in_Zimbabwe_QTR1_26",
+    "fr": "Source : Crime_in_Zimbabwe_QTR1_26"
+   }
+  }
+ ],
+ "facts": [
+  {
+   "indicator": "appendix1_correspondence_table",
+   "area": "0103-non-intentional-homicide",
+   "period": "ZRP Crime Code",
+   "value": 403.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 15,
+   "snippet": "0103 Non-intentional homicide 403",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "appendix1_correspondence_table",
+   "area": "0104-assisting-or-instigating-suicide",
+   "period": "ZRP Crime Code",
+   "value": 404.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 15,
+   "snippet": "0104 Assisting or instigating suicide 404",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "appendix1_correspondence_table",
+   "area": "0202-acts-against-liberty",
+   "period": "ZRP Crime Code",
+   "value": 11101.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 15,
+   "snippet": "0202 Acts against liberty 11101",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "appendix1_correspondence_table",
+   "area": "0205-coercion",
+   "period": "ZRP Crime Code",
+   "value": 932933.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 15,
+   "snippet": "0205 Coercion 932,933",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "appendix1_correspondence_table",
+   "area": "0208-acts-intended-to-induce-fear-or-emotional-distress",
+   "period": "ZRP Crime Code",
+   "value": 10528.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 15,
+   "snippet": "0208 Acts intended to induce fear or emotional distress 10528",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "appendix1_correspondence_table",
+   "area": "0210-discrimination",
+   "period": "ZRP Crime Code",
+   "value": 10525.0,
+   "unit": {
+    "en": "",
+    "fr": ""
+   },
+   "page": 15,
+   "snippet": "0210 Discrimination 10525",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "indicators": {
+  "appendix1_correspondence_table": {
+   "fr": "Appendix 1: Correspondence Table between the United Nations International Classification of Crime for Statistical Purposes (ICCS) and the National Crime Classification used by the Zimbabwe Republic Police",
+   "en": "Appendix 1: Correspondence Table between the United Nations International Classification of Crime for Statistical Purposes (ICCS) and the National Crime Classification used by the Zimbabwe Republic Police"
+  }
+ },
+ "i18n": {
+  "en": {
+   "sourceDoc": "Source publication",
+   "tabOverview": "Overview",
+   "tabData": "Data & sources",
+   "filterLabel": "Areas",
+   "reset": "Reset",
+   "searchPh": "Search an indicator, an area, a year…",
+   "btnCsv": "Download CSV",
+   "btnJson": "Download JSON",
+   "thIndicator": "Indicator",
+   "thArea": "Area",
+   "thPeriod": "Period",
+   "thValue": "Value",
+   "thUnit": "Unit",
+   "thPage": "Page",
+   "thStatus": "Check",
+   "noRows": "No figure matches this search.",
+   "statusOk": "Verified",
+   "statusWarn": "To review",
+   "provLabel": "Read from the source document, page",
+   "calloutTitle": "Read this before reusing the figures",
+   "calloutBody": "These figures were extracted from a PDF by a language model and then checked automatically against the source text. Rows marked “To review” failed at least one check and have not been confirmed by a statistician. Always cite the original publication, not this dashboard.",
+   "dataTitle": "Data & sources",
+   "dataLede": "Every figure on this dashboard, with the page it came from and the line of text it was read from. Search, sort, open a row to see the source, export.",
+   "limTitle": "Limitations",
+   "methTitle": "How this dashboard was built",
+   "methBody": "Text was extracted from the PDF page by page. A rules-based reader and a language model each transcribed the tables independently, and every cell was checked for page provenance, quoted evidence, unit and range, reconciliation with published totals, and agreement between the two readings. The notebook, the prompts and the verification report are in the repository.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Built with",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
+   "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
+   "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
+   "kicker": "National Statistics",
+   "title": "Crime in Zimbabwe – Q1 2026",
+   "subtitle": "",
+   "ovTitle": "Appendix 1 – Correspondence Table",
+   "ovLede": "This appendix presents the correspondence between the United Nations International Classification of Crime for Statistical Purposes (ICCS) and the national crime classification used by the Zimbabwe Republic Police.",
+   "limBody": "",
+   "publisher": "National Institute of Statistics",
+   "period": ""
+  },
+  "fr": {
+   "sourceDoc": "Publication source",
+   "tabOverview": "Vue d'ensemble",
+   "tabData": "Données et sources",
+   "filterLabel": "Zones",
+   "reset": "Réinitialiser",
+   "searchPh": "Chercher un indicateur, une zone, une année…",
+   "btnCsv": "Télécharger le CSV",
+   "btnJson": "Télécharger le JSON",
+   "thIndicator": "Indicateur",
+   "thArea": "Zone",
+   "thPeriod": "Période",
+   "thValue": "Valeur",
+   "thUnit": "Unité",
+   "thPage": "Page",
+   "thStatus": "Contrôle",
+   "noRows": "Aucun chiffre ne correspond à cette recherche.",
+   "statusOk": "Vérifié",
+   "statusWarn": "À revoir",
+   "provLabel": "Lu dans le document source, page",
+   "calloutTitle": "À lire avant de réutiliser les chiffres",
+   "calloutBody": "Ces chiffres ont été extraits d'un PDF par un modèle de langage, puis contrôlés automatiquement contre le texte source. Les lignes marquées « À revoir » ont échoué à au moins un contrôle et n'ont pas été confirmées par un statisticien. Citez toujours la publication d'origine, pas ce tableau de bord.",
+   "dataTitle": "Données et sources",
+   "dataLede": "Tous les chiffres de ce tableau de bord, avec la page dont ils proviennent et la ligne de texte dont ils ont été lus. Cherchez, triez, ouvrez une ligne pour voir la source, exportez.",
+   "limTitle": "Limites",
+   "methTitle": "Comment ce tableau de bord a été construit",
+   "methBody": "Le texte a été extrait du PDF page par page. Un lecteur à base de règles et un modèle de langage ont transcrit les tableaux indépendamment, et chaque cellule a été contrôlée : provenance de page, citation vérifiée, unité et plage, réconciliation avec les totaux publiés, et accord entre les deux lectures. Le notebook, les prompts et le rapport de vérification sont dans le dépôt.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Réalisé avec",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
+   "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
+   "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
+   "kicker": "Statistiques nationales",
+   "title": "Criminalité au Zimbabwe – T1 2026",
+   "subtitle": "",
+   "ovTitle": "Annexe 1 – Table de correspondance",
+   "ovLede": "Cette annexe présente la correspondance entre la Classification internationale des crimes pour les statistiques (ICCS) des Nations Unies et la classification nationale des crimes utilisée par la Police de la République du Zimbabwe.",
+   "limBody": "",
+   "publisher": "Institut National de la Statistique",
+   "period": ""
+  }
+ }
+}

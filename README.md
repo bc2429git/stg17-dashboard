@@ -1,3 +1,9 @@
+**Live dashboard: <https://bc2429git.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-30.
+
+---
+
 # Crime in Zimbabwe – Q1 2026
 
 Bilingual (EN/FR) dashboard built from **Crime_in_Zimbabwe_QTR1_26**, pages 15, 16, 17.

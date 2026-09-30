@@ -1,0 +1,45 @@
+indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
+appendix1_correspondence_table,0101 Intentional homicide,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0101 Intentional homicide,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0102 Attempted intentional homicide,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0102 Attempted intentional homicide,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0103 Non-intentional homicide,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0103 Non-intentional homicide,ZRP Crime Code,403.0,,15,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+appendix1_correspondence_table,0104 Assisting or instigating suicide,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0104 Assisting or instigating suicide,ZRP Crime Code,404.0,,15,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+appendix1_correspondence_table,0105 Euthanasia,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0105 Euthanasia,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0106 Illegal feticide,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0106 Illegal feticide,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0107 Unlawful killing associated with armed conflict,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0107 Unlawful killing associated with armed conflict,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0109 death,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0109 death,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0201 Assaults and threats,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0201 Assaults and threats,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0202 Acts against liberty,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0202 Acts against liberty,ZRP Crime Code,11101.0,,15,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+appendix1_correspondence_table,0203 Slavery and exploitation,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0203 Slavery and exploitation,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0204 Trafficking in persons (TIP),International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0204 Trafficking in persons (TIP),ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0205 Coercion,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0205 Coercion,ZRP Crime Code,932933.0,,15,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+appendix1_correspondence_table,0206 Negligence,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0206 Negligence,ZRP Crime Code,7.0,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,7.0 is not printed on page 15
+appendix1_correspondence_table,0207 Dangerous acts,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0207 Dangerous acts,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0208 Acts intended to induce fear or emotional distress,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0208 Acts intended to induce fear or emotional distress,ZRP Crime Code,10528.0,,15,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+appendix1_correspondence_table,0209 Defamation or insult,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0209 Defamation or insult,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0210 Discrimination,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0210 Discrimination,ZRP Crime Code,10525.0,,15,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+appendix1_correspondence_table,0211 Acts that trespass against the person,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0211 Acts that trespass against the person,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0301 Sexual violence,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0301 Sexual violence,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0302 Sexual exploitation,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0302 Sexual exploitation,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0309 Other injurious acts of a sexual nature,International Classification of Crime for Statistical Purposes,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
+appendix1_correspondence_table,0309 Other injurious acts of a sexual nature,ZRP Crime Code,,,15,openai/gpt-oss-120b,False,True,True,True,no-row,dropped,None is not printed on page 15
